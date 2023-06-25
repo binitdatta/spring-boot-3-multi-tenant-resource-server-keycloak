@@ -70,14 +70,3 @@ CREATE TABLE `ROLLINGSTONE_CUSTOMER_ADDRESS` (
   PRIMARY KEY (`ADDRESS_ID`)
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 
-echo "# spring-boot-3-multi-tenant-resource-server-keycloak" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/binitdatta/spring-boot-3-multi-tenant-resource-server-keycloak.git
-git push -u origin main
-
-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
-
-git remote set-url origin https://binitdatta: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@binitdatta/spring-boot-3-multi-tenant-resource-server-keycloak.git
